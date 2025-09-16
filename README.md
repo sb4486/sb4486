@@ -8,10 +8,6 @@
 👨‍💻 **GitHub:** [sb4486](https://github.com/sb4486)
 
 
-### About Me 
-Blending over 2 years of experience in ML, NLP, and Software Engineering, I transform data and language into impactful solutions and experiences.
-
-
 ### Professional Highlights 
 - **Data Science Co-op** - Exelon, Philly (September 2024 - March 2025)
 - **Software Engineer** - Flying Saints, Delhi (March 2022 - July 2022)
@@ -23,13 +19,16 @@ Blending over 2 years of experience in ML, NLP, and Software Engineering, I tran
 - **Tools:** AWS, GCP, Docker, Git
 - **Specialties:** LLMs, Generative AI, NLP, Search
 
+
 ### Education 
 - **Bachelors in Computer Science**, Drexel University, PA, USA (Sept 2022 - June 2026)
 - **Study Abroad**, University of New South Wales, Sydney, Australia (September 2025 - December 2025)
 
+
 ### Certifications 
 - **Data Camp:** Deep Learning, Machine Learning, Mathematics for ML Specializations, NLP, GenAI
 - **HackerRank:** SQL, React
+
 
 🔗 Let's ideate, innovate, and build cool expericnes with AI & ML. Reach out for collaborations or simply to chat!
 
