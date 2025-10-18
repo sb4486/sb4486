@@ -3,7 +3,7 @@
 ## AI/ML Engineer focusing on all-things-data
 
 📍 **Philadelphia, PA, USA**  
-📧 **Email:** [sanchibansal17@gmail.com](mailto:sanchibansal17@gmail.com)  
+📧 **Email:** [sanchi.b.work@gmail.com](mailto:sanchi.b.work@gmail.com)  
 🔗 **LinkedIn:** [SanchiBansal](https://linkedin.com/in/sanchibansal26)  
 👨‍💻 **GitHub:** [sb4486](https://github.com/sb4486)
 
