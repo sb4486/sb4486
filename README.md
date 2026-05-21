@@ -9,8 +9,9 @@
 
 
 ### Professional Highlights 
+- **Customer Success Engineer** - Bloomberg, Princeton (September 2025 - May 2026)
 - **Data Science Co-op** - Exelon, Philly (September 2024 - March 2025)
-- **Software Engineer** - Flying Saints, Delhi (March 2022 - July 2022)
+- **Data Science Intern** - Flying Saints, Delhi (March 2022 - July 2022)
 
 
 ### Tech Toolbox 
